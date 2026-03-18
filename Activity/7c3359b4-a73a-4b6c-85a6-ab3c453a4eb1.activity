@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "7c3359b4-a73a-4b6c-85a6-ab3c453a4eb1",
-    "contentHash": "MnzpnEJV4eCyEeUDvNj910ixennceER85dgYQ1KeFNk=",
+    "contentHash": "H4R1VNU82MlAJjylyyyZ79CKOGF0ru2d1yTH3UrmDZ8=",
     "platformVersion": "10.0.0",
-    "revisionId": "996bf254-4761-479d-9ae7-665d8faaca49",
-    "updatedAt": "2026-03-17T15:10:17.2978973Z",
+    "revisionId": "ff7c13d2-fbb8-491d-8bea-7233d6088564",
+    "updatedAt": "2026-03-17T15:11:07.2675733Z",
     "updatedBy": "Toca.io",
     "branch": "/app/data/git/08de38c2-1b88-4361-82b5-bdb178084bbe/worktrees/branch-too"
   },
@@ -13,9 +13,7 @@
     "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
     "description": "aaa",
     "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "botIds": [
-      "9ca4f7a3-a7ae-4377-a3f0-7b796f334729"
-    ],
+    "botIds": [],
     "version": 1,
     "actions": [
       {
@@ -28,7 +26,7 @@
           {
             "key": "echo",
             "type": "String",
-            "value": "\u0022hjgjhhj\u0022"
+            "value": "\u0022hjgjhhjfrrff\u0022"
           },
           {
             "key": "failOnError",
@@ -45,17 +43,74 @@
         "results": [],
         "logs": [],
         "datastoreReferences": []
+      },
+      {
+        "name": "Set Variable",
+        "type": "VariableSetV2",
+        "version": "1.1.2",
+        "actionId": "563dc782-155f-4d81-9b7b-6642aaed20d6",
+        "actionDefinitionActionId": "32b3480c-118e-42ce-99dd-1c25aa93d742",
+        "parameters": [
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022ewewew\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022ewewew\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [
+          {
+            "actionId": "563dc782-155f-4d81-9b7b-6642aaed20d6",
+            "actionResult": "563dc782-155f-4d81-9b7b-6642aaed20d6:ewewew",
+            "variableName": "ewewew",
+            "type": "String"
+          }
+        ],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
       }
     ],
-    "variableMappings": [],
+    "variableMappings": [
+      {
+        "actionId": "563dc782-155f-4d81-9b7b-6642aaed20d6",
+        "actionResult": "563dc782-155f-4d81-9b7b-6642aaed20d6:ewewew",
+        "variableName": "ewewew",
+        "type": "String"
+      }
+    ],
     "outputMappings": [],
     "metaData": [],
     "created": "2026-03-09T11:05:50+00:00",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-17T15:10:17.1873205Z",
+    "updated": "2026-03-17T15:11:07.1676416Z",
     "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "activityServiceType": "Gui",
-    "revisionId": "996bf254-4761-479d-9ae7-665d8faaca49",
+    "activityServiceType": "Stateless",
+    "revisionId": "ff7c13d2-fbb8-491d-8bea-7233d6088564",
     "userId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "branch": "branch-too",
