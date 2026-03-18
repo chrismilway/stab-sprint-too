@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "7c3359b4-a73a-4b6c-85a6-ab3c453a4eb1",
-    "contentHash": "9hk9gB22vqp81OB1W6Qp5uo9QUVNBLukrT06MIcvAvU=",
+    "contentHash": "p50dykKFPrx\u002BQc8h5qsinEbuuPyPaoWFlyII0c\u002Bbh9A=",
     "platformVersion": "10.0.0",
-    "revisionId": "a47cfc77-dd04-49ba-ad30-5bcfcbbe9165",
-    "updatedAt": "2026-03-18T09:43:28.0418128Z",
+    "revisionId": "047ae18c-ebc8-404f-a0d8-84057b37a031",
+    "updatedAt": "2026-03-18T09:46:55.4874752Z",
     "updatedBy": "Toca.io",
     "branch": "/app/data/git/08de38c2-1b88-4361-82b5-bdb178084bbe/worktrees/branch-too"
   },
@@ -22,11 +22,12 @@
         "version": "1.0.2",
         "actionId": "e25955d8-33ad-4e93-9b29-5ef327b86e8c",
         "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": true,
         "parameters": [
           {
             "key": "echo",
             "type": "String",
-            "value": "\u0022hjgjhhjfrrffjjjjjnnnnn\u0022"
+            "value": "\u0022hj\u0022"
           },
           {
             "key": "failOnError",
@@ -107,10 +108,10 @@
     "metaData": [],
     "created": "2026-03-09T11:05:50+00:00",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-18T09:43:27.6787113Z",
+    "updated": "2026-03-18T09:46:55.0663892Z",
     "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "activityServiceType": "Stateless",
-    "revisionId": "a47cfc77-dd04-49ba-ad30-5bcfcbbe9165",
+    "revisionId": "047ae18c-ebc8-404f-a0d8-84057b37a031",
     "userId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "branch": "branch-too",
