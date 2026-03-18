@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "7c3359b4-a73a-4b6c-85a6-ab3c453a4eb1",
-    "contentHash": "vsEg5qewI7ptLHjKejgAi/7es5MJtnw97meBledMgms=",
+    "contentHash": "vWyQ4Xm0mIy7bpOiguYjmIVcUOr/oK35oFuFfaGtva0=",
     "platformVersion": "10.0.0",
-    "revisionId": "86e9b0e2-5286-496b-8ef5-83f8e31bc3fe",
-    "updatedAt": "2026-03-18T09:47:25.5666323Z",
+    "revisionId": "0d22b4c9-d65f-48a8-8025-69ba6635e383",
+    "updatedAt": "2026-03-18T09:51:19.5339801Z",
     "updatedBy": "Toca.io",
     "branch": "/app/data/git/08de38c2-1b88-4361-82b5-bdb178084bbe/worktrees/branch-too"
   },
@@ -22,7 +22,6 @@
         "version": "1.0.2",
         "actionId": "e25955d8-33ad-4e93-9b29-5ef327b86e8c",
         "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
-        "disabled": true,
         "parameters": [
           {
             "key": "echo",
@@ -108,10 +107,10 @@
     "metaData": [],
     "created": "2026-03-09T11:05:50+00:00",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-18T09:47:25.162157Z",
+    "updated": "2026-03-18T09:51:18.9459754Z",
     "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "activityServiceType": "Stateless",
-    "revisionId": "86e9b0e2-5286-496b-8ef5-83f8e31bc3fe",
+    "revisionId": "0d22b4c9-d65f-48a8-8025-69ba6635e383",
     "userId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "branch": "branch-too",
