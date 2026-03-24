@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "id": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
+    "contentHash": "pe7YhYaQ\u002BQhiy6f8bQOX2L60b1GaD6OLpBgRlRkruW4=",
+    "platformVersion": "10.0.0",
+    "revisionId": "69bbeefe-2eed-42ca-88f9-9b3b28966a1b",
+    "updatedAt": "2026-03-24T11:24:19Z",
+    "updatedBy": "Toca.io",
+    "branch": "dev"
+  },
+  "content": {
+    "id": "69a853c8985a489f0d7de675",
+    "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
+    "description": "test",
+    "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "botIds": [
+      "9ca4f7a3-a7ae-4377-a3f0-7b796f334729"
+    ],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Set Variable",
+        "type": "VariableSetV2",
+        "version": "1.1.2",
+        "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+        "actionDefinitionActionId": "32b3480c-118e-42ce-99dd-1c25aa93d742",
+        "parameters": [
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022okjlkjkjssss\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022\u00A3\u00A31caf1420-98e1-42ef-9f8c-a9a897e04cde:fddffdfd\u00A3\u00A3\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [
+          {
+            "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+            "actionResult": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740:okjlkjkjssss",
+            "variableName": "okjlkjkjssss",
+            "type": "String"
+          }
+        ],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": [
+          {
+            "datastoreId": "1caf1420-98e1-42ef-9f8c-a9a897e04cde",
+            "variableName": "fddffdfd"
+          }
+        ]
+      },
+      {
+        "name": "Set Variable",
+        "type": "VariableSetV2",
+        "version": "1.1.2",
+        "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+        "actionDefinitionActionId": "32b3480c-118e-42ce-99dd-1c25aa93d742",
+        "parameters": [
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022okjlkjkjoo\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022\u00A3\u00A396db6418-53bc-4827-8b6d-9cc0a667ba08:qqqqqq\u00A3\u00A3\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [
+          {
+            "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+            "actionResult": "e225cd2e-47e0-46b1-b5e2-82876ae2532c:okjlkjkjoo",
+            "variableName": "okjlkjkjoo",
+            "type": "String"
+          }
+        ],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": [
+          {
+            "datastoreId": "96db6418-53bc-4827-8b6d-9cc0a667ba08",
+            "variableName": "qqqqqq"
+          }
+        ]
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "e8bd83b8-c292-4b9f-aecf-53148d211da0",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022Hey Chris, I made a change! xsssss\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      },
+      {
+        "name": "Image Click",
+        "type": "ImageClick",
+        "version": "1.0.10",
+        "actionId": "d7ce7717-518e-4f89-bda9-8871903d28f6",
+        "actionDefinitionActionId": "7c8485d8-788b-4c9c-b60d-81df1715dc80",
+        "parameters": [
+          {
+            "key": "image",
+            "type": "Image",
+            "value": "\u0022019d1f96-9102-713a-8d0a-d4f074af1480\u0022"
+          },
+          {
+            "key": "imageBox",
+            "type": "BoundingBox",
+            "value": "{\u0022x\u0022:0,\u0022y\u0022:1042,\u0022w\u0022:37,\u0022h\u0022:38}"
+          },
+          {
+            "key": "clickType",
+            "type": "String",
+            "value": "\u0022Left\u0022"
+          },
+          {
+            "key": "colorMatch",
+            "type": "Boolean",
+            "value": "false"
+          },
+          {
+            "key": "timeout",
+            "type": "Number",
+            "value": "30000"
+          },
+          {
+            "key": "errorOnTimeout",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "templateThreshold",
+            "type": "Number",
+            "value": "0.9"
+          },
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "0"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [
+      {
+        "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+        "actionResult": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740:okjlkjkjssss",
+        "variableName": "okjlkjkjssss",
+        "type": "String"
+      },
+      {
+        "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+        "actionResult": "e225cd2e-47e0-46b1-b5e2-82876ae2532c:okjlkjkjoo",
+        "variableName": "okjlkjkjoo",
+        "type": "String"
+      }
+    ],
+    "outputMappings": [],
+    "metaData": [],
+    "created": "2025-12-19T10:06:32Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "updated": "2026-03-24T11:24:18Z",
+    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "activityServiceType": "Gui",
+    "datastoreReferences": [
+      {
+        "datastoreId": "1caf1420-98e1-42ef-9f8c-a9a897e04cde",
+        "variableName": "fddffdfd"
+      },
+      {
+        "datastoreId": "96db6418-53bc-4827-8b6d-9cc0a667ba08",
+        "variableName": "qqqqqq"
+      }
+    ],
+    "revisionId": "69bbeefe-2eed-42ca-88f9-9b3b28966a1b",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
+    "name": "test"
+  }
+}
