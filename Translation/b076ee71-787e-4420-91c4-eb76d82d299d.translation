@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "id": "b076ee71-787e-4420-91c4-eb76d82d299d",
+    "contentHash": "mvNFlW3m1sTjOMm9ya7u0ZN/heubbhLu66bwZaMaTbY=",
+    "platformVersion": "10.0.0",
+    "revisionId": "20819959-846e-4827-9369-273375cc138a",
+    "updatedAt": "2026-03-24T09:03:42Z",
+    "updatedBy": "Toca.io",
+    "branch": "dev"
+  },
+  "content": {
+    "id": "69c2536deb34327a764275b5",
+    "translationId": "b076ee71-787e-4420-91c4-eb76d82d299d",
+    "appId": "693aed818a7189a4322a1b4e",
+    "translations": {},
+    "created": "2026-03-24T09:03:41Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "updated": "2026-03-24T09:03:41Z",
+    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "revisionId": "20819959-846e-4827-9369-273375cc138a",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "b076ee71-787e-4420-91c4-eb76d82d299d",
+    "name": "General translations"
+  }
+}
