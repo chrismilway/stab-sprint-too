@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
-    "contentHash": "pe7YhYaQ\u002BQhiy6f8bQOX2L60b1GaD6OLpBgRlRkruW4=",
+    "contentHash": "NBsALOUXZJt29tes1v3G7rmEQuSM719vYw6CDy/OXRE=",
     "platformVersion": "10.0.0",
-    "revisionId": "69bbeefe-2eed-42ca-88f9-9b3b28966a1b",
-    "updatedAt": "2026-03-24T11:24:19Z",
+    "revisionId": "5ce4431d-0b2b-4add-a828-4ecaac861ef7",
+    "updatedAt": "2026-03-24T12:16:46Z",
     "updatedBy": "Toca.io",
     "branch": "dev"
   },
@@ -166,12 +166,12 @@
           {
             "key": "image",
             "type": "Image",
-            "value": "\u0022019d1f96-9102-713a-8d0a-d4f074af1480\u0022"
+            "value": "\u0022019d1fc6-9e8a-76cc-9379-34a01c4cd781\u0022"
           },
           {
             "key": "imageBox",
             "type": "BoundingBox",
-            "value": "{\u0022x\u0022:0,\u0022y\u0022:1042,\u0022w\u0022:37,\u0022h\u0022:38}"
+            "value": "{\u0022x\u0022:488,\u0022y\u0022:362,\u0022w\u0022:304,\u0022h\u0022:368}"
           },
           {
             "key": "clickType",
@@ -238,7 +238,7 @@
     "metaData": [],
     "created": "2025-12-19T10:06:32Z",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-24T11:24:18Z",
+    "updated": "2026-03-24T12:16:46Z",
     "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "activityServiceType": "Gui",
     "datastoreReferences": [
@@ -251,7 +251,7 @@
         "variableName": "qqqqqq"
       }
     ],
-    "revisionId": "69bbeefe-2eed-42ca-88f9-9b3b28966a1b",
+    "revisionId": "5ce4431d-0b2b-4add-a828-4ecaac861ef7",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
     "name": "test"
