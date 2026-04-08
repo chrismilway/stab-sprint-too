@@ -1,0 +1,23 @@
+{
+  "metadata": {
+    "id": "38a3dde5-5feb-4b8a-89b5-a5256fa4b91f",
+    "contentHash": "ti76LGFLQCsb\u002B8l96TC52MlA2K8gEEi5ZZl\u002BRwoCdZE=",
+    "platformVersion": "10.0.0",
+    "revisionId": "e0b41a1c-aadb-491c-9cea-38241ecff222",
+    "updatedAt": "0001-01-01T00:00:00Z",
+    "createdAt": "2025-12-12T10:53:37Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "branch": "branch-too"
+  },
+  "content": {
+    "projectId": "38a3dde5-5feb-4b8a-89b5-a5256fa4b91f",
+    "description": "aaaa",
+    "associatedUsers": [
+      "511f1f79-70c1-42af-a7fb-b34c001c3e30"
+    ],
+    "actionGroups": [],
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "38a3dde5-5feb-4b8a-89b5-a5256fa4b91f",
+    "name": "30005 automation"
+  }
+}
