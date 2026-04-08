@@ -1,10 +1,10 @@
 {
   "metadata": {
     "id": "6942b4472a43bd9cf13e8817",
-    "contentHash": "n6UAdzPNINK6zwkyBQbz\u002BsNlixQ5d8iO/2E2XPrhckU=",
+    "contentHash": "GfmqfQhqu1AZzEI8\u002B8W6FfjHPGZShhRmvprt1aRFng0=",
     "platformVersion": "10.0.0",
-    "revisionId": "88bd84d1-900c-4b3e-a7b2-b5d9abe15cc8",
-    "updatedAt": "2026-04-08T09:54:44Z",
+    "revisionId": "8358ab78-113a-47f4-b9fa-530ad7288314",
+    "updatedAt": "2026-04-08T09:59:15Z",
     "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "createdAt": "2025-12-17T13:46:47Z",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
@@ -401,6 +401,43 @@
         "pageEntityId": "232ca0f7-66d2-44bf-9a37-715559bbcae5",
         "slug": "cxfnjdfjdfj",
         "name": "cxfnjdfjdfj",
+        "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "07d4850b-e98c-4763-a9a3-40876774b09d",
+        "pageId": "69d626f27a4dd09b8c1c3a7f",
+        "pageEntityId": "1e80d09a-695f-451c-be4c-d428058077f3",
+        "slug": "kjdfkjdfjk",
+        "name": "kjdfkjdfjk",
         "restricted": true,
         "parameters": [
           {
