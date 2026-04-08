@@ -1,15 +1,16 @@
 {
   "metadata": {
     "id": "7c3359b4-a73a-4b6c-85a6-ab3c453a4eb1",
-    "contentHash": "\u002BOsAIcuC5KVN\u002B4RbrxJIAR4RQrnSppe6RWxRIwM8XtA=",
+    "contentHash": "O3ItPsIJCw66RIt4fuIlcwzIZkeJd7e4l5gNwJdkoIY=",
     "platformVersion": "10.0.0",
-    "revisionId": "ad810508-8400-4ad4-a72e-df2905f3023c",
-    "updatedAt": "2026-03-18T09:51:39.4796488Z",
-    "updatedBy": "Toca.io",
-    "branch": "/app/data/git/08de38c2-1b88-4361-82b5-bdb178084bbe/worktrees/branch-too"
+    "revisionId": "38e2aba2-6b2b-48a2-8921-a7b269e8c005",
+    "updatedAt": "2026-04-08T09:26:59Z",
+    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "createdAt": "2026-03-09T11:05:50Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "branch": "branch-too"
   },
   "content": {
-    "id": "69b92775ea5fb68b7c60a41a",
     "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
     "description": "aaa",
     "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
@@ -64,7 +65,7 @@
           {
             "key": "data",
             "type": "String",
-            "value": "\u0022ewewew\u0022"
+            "value": "\u0022ewe\u0022"
           },
           {
             "key": "failOnError",
@@ -105,15 +106,8 @@
     ],
     "outputMappings": [],
     "metaData": [],
-    "created": "2026-03-09T11:05:50+00:00",
-    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-18T09:51:38.9073494Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "activityServiceType": "Stateless",
-    "revisionId": "ad810508-8400-4ad4-a72e-df2905f3023c",
-    "userId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
-    "branch": "branch-too",
     "resourceId": "7c3359b4-a73a-4b6c-85a6-ab3c453a4eb1",
     "name": "wwwwww"
   }
