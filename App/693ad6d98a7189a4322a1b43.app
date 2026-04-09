@@ -1,14 +1,10 @@
 {
   "metadata": {
     "id": "693ad6d98a7189a4322a1b43",
-    "contentHash": "LrgMSakwbkbjhsZ\u002BMq1HQouG2MYwaeIijtuO43A1Xio=",
     "platformVersion": "10.0.0",
-    "revisionId": "4ebac3c3-446d-4c4f-bfab-815111b8fe28",
-    "updatedAt": "2025-12-16T16:40:35Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "createdAt": "2025-12-11T14:36:09Z",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "branch": "branch-too"
+    "schemaVersion": "1.0.0"
   },
   "content": {
     "appId": "693ad6d98a7189a4322a1b43",
