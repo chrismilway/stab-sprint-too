@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "id": "4eb71219-a4ac-45fb-9b98-9dd1dd4796d0",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-09T09:43:20Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
+    "description": "jhjh jjhhjhjhj",
+    "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "botIds": [],
+    "version": 1,
+    "actions": [],
+    "variableMappings": [],
+    "outputMappings": [],
+    "metaData": [],
+    "activityServiceType": "Stateless",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "4eb71219-a4ac-45fb-9b98-9dd1dd4796d0",
+    "name": "jhjhhjjhj"
+  }
+}
