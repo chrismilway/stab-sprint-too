@@ -1,15 +1,12 @@
 {
   "metadata": {
     "id": "693ad6d98a7189a4322a1b43",
-    "contentHash": "KktT9UwQ0WozQtcB\u002Bs6CQdWY1degBHMLqsEquxoDVsU=",
     "platformVersion": "10.0.0",
-    "revisionId": "4ebac3c3-446d-4c4f-bfab-815111b8fe28",
-    "updatedAt": "2026-03-24T15:11:06Z",
-    "updatedBy": "Toca.io",
-    "branch": "dev"
+    "createdAt": "2025-12-11T14:36:09Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
   },
   "content": {
-    "id": "69a853cb985a489f0d7dfb2f",
     "appId": "693ad6d98a7189a4322a1b43",
     "rootSlug": "usable-jazz-9313",
     "associatedId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
@@ -48,10 +45,6 @@
         "value": true
       }
     ],
-    "created": "2025-12-11T14:36:09Z",
-    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2025-12-16T16:40:35Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "favicon": "",
     "theme": {
       "palette": {
@@ -101,7 +94,6 @@
         "xl": 2160
       }
     },
-    "revisionId": "4ebac3c3-446d-4c4f-bfab-815111b8fe28",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "693ad6d98a7189a4322a1b43",
     "name": "30205 app"

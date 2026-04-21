@@ -1,15 +1,12 @@
 {
   "metadata": {
     "id": "696906afd25d050bf21e6bd8",
-    "contentHash": "eUp1OC5Pef3inOJzpeNWInoNVs9TGkERpcjnK4ISVpg=",
     "platformVersion": "10.0.0",
-    "revisionId": "1fed1e29-5621-4fb3-b590-9017d03fac82",
-    "updatedAt": "2026-03-24T15:11:02Z",
-    "updatedBy": "Toca.io",
-    "branch": "dev"
+    "createdAt": "2026-01-15T15:24:31Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
   },
   "content": {
-    "id": "69a853cb985a489f0d7dfb8c",
     "appId": "696906afd25d050bf21e6bd8",
     "rootSlug": "obvious-misrepresentation-42",
     "associatedId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
@@ -64,10 +61,6 @@
       },
       "isUserPassProvider": true
     },
-    "created": "2026-01-15T15:24:31Z",
-    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-01-15T15:24:32Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "favicon": "",
     "theme": {
       "palette": {
@@ -117,7 +110,6 @@
         "xl": 2160
       }
     },
-    "revisionId": "1fed1e29-5621-4fb3-b590-9017d03fac82",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "696906afd25d050bf21e6bd8",
     "name": "aaaaaaaaa"

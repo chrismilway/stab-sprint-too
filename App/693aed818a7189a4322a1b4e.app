@@ -1,15 +1,12 @@
 {
   "metadata": {
     "id": "693aed818a7189a4322a1b4e",
-    "contentHash": "Q9tMvZl4lyTQV6gp3CSSP\u002B36d21lxlIAjgJ3ZUpUcaM=",
     "platformVersion": "10.0.0",
-    "revisionId": "c000f1b4-bc88-4976-a908-ea1f74fd8b17",
-    "updatedAt": "2026-03-24T15:11:04Z",
-    "updatedBy": "Toca.io",
-    "branch": "dev"
+    "createdAt": "2025-12-11T16:12:49Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
   },
   "content": {
-    "id": "69a853cb985a489f0d7dfb30",
     "appId": "693aed818a7189a4322a1b4e",
     "rootSlug": "watery-earmuffs-1675",
     "associatedId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
@@ -69,10 +66,6 @@
         "value": true
       }
     ],
-    "created": "2025-12-11T16:12:49Z",
-    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "updated": "2026-03-24T09:03:42Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "favicon": "",
     "theme": {
       "palette": {
@@ -135,7 +128,6 @@
         }
       ]
     },
-    "revisionId": "c000f1b4-bc88-4976-a908-ea1f74fd8b17",
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "693aed818a7189a4322a1b4e",
     "name": "29981 modal width"
