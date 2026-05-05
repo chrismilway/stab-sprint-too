@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "id": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "platformVersion": "10.0.0",
+    "createdAt": "2025-12-11T14:32:26Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "id": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "accent": "#4b9c24",
+    "route": "stability-sprint",
+    "description": "It\u0027s a sprint to stabilise stuff foo",
+    "cmsEnabled": false,
+    "repositoryUrl": "https://github.com/chrismilway/stab-sprint-too.git",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "name": "Stability sprint"
+  }
+}

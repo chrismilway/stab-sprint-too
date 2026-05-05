@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "resources": [
+    {
+      "type": "GitPageResource",
+      "id": "e90a0639-d850-4ac0-a9c1-cd9b19cca677",
+      "path": "Page/e90a0639-d850-4ac0-a9c1-cd9b19cca677.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "7e4c442f-2b6a-46de-b5d4-a9beeca6fc5d",
+      "path": "Page/7e4c442f-2b6a-46de-b5d4-a9beeca6fc5d.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "461eb8bf-c378-49d7-85c6-f6bb35eac295",
+      "path": "Page/461eb8bf-c378-49d7-85c6-f6bb35eac295.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "a88f2e6d-99fc-42fc-99b0-a71d85c2e8d9",
+      "path": "Page/a88f2e6d-99fc-42fc-99b0-a71d85c2e8d9.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitPageResource",
+      "id": "6e55f269-8dce-42a4-af30-8ec069b9c975",
+      "path": "Page/6e55f269-8dce-42a4-af30-8ec069b9c975.page",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
+      "path": "Activity/5cd796a2-700d-444b-8b16-36c10c9b28a1.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitActivityResource",
+      "id": "803d8e7e-964f-40b3-b119-74268d03e27c",
+      "path": "Activity/803d8e7e-964f-40b3-b119-74268d03e27c.activity",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitAppResource",
+      "id": "6942b4472a43bd9cf13e8817",
+      "path": "App/6942b4472a43bd9cf13e8817.app",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    },
+    {
+      "type": "GitWorkspaceResource",
+      "id": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+      "path": "08de38c2-1b88-4361-82b5-bdb178084bbe.workspace",
+      "dependencies": {
+        "actionDetails": [],
+        "componentDetails": [],
+        "appActionsDetails": []
+      }
+    }
+  ],
+  "environmentMappings": []
+}
