@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "id": "d318981b-e6fd-407f-8353-9d1cc85d873d",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-22T08:49:53Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "d318981b-e6fd-407f-8353-9d1cc85d873d",
+    "description": "ssssss",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "d318981b-e6fd-407f-8353-9d1cc85d873d",
+        "uuid": "019db461-aff8-7355-a8db-ec130d9d12eb",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "019db461-affc-72dc-ac8b-4a755d31698b"
+      }
+    ],
+    "tables": [],
+    "tableMigrations": [],
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "d318981b-e6fd-407f-8353-9d1cc85d873d",
+    "name": "ssss"
+  }
+}

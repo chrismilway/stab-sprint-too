@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "id": "e8876225-b2ec-42b7-a549-f3adcc208e84",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-24T15:35:09Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "uuid": "e8876225-b2ec-42b7-a549-f3adcc208e84",
+    "description": "aaa",
+    "datastoreType": "Internal",
+    "datastoreParameters": [
+      {
+        "datastoreId": "e8876225-b2ec-42b7-a549-f3adcc208e84",
+        "uuid": "019dc021-70e3-75df-bd42-5577f573893d",
+        "key": "fileDrive",
+        "type": "FilesLocator",
+        "value": "{\u0022type\u0022:\u0022ObjectStore\u0022}",
+        "revision": "019dc021-70e3-75e0-93c1-10ee61548b87"
+      }
+    ],
+    "tables": [],
+    "tableMigrations": [],
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "e8876225-b2ec-42b7-a549-f3adcc208e84",
+    "name": "aaaaa"
+  }
+}

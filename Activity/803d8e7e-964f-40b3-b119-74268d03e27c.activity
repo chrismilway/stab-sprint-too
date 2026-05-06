@@ -1,29 +1,33 @@
 {
   "metadata": {
-    "id": "4eb71219-a4ac-45fb-9b98-9dd1dd4796d0",
+    "id": "803d8e7e-964f-40b3-b119-74268d03e27c",
     "platformVersion": "10.0.0",
-    "createdAt": "2026-04-09T09:43:20Z",
+    "createdAt": "2026-04-28T13:45:41Z",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "schemaVersion": "1.0.0"
   },
   "content": {
     "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
-    "description": "jhjh jjhhjhjhj",
+    "description": "sssss",
     "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "botIds": [],
     "version": 1,
     "actions": [
       {
-        "name": "Debug Value",
-        "type": "Debug",
-        "version": "1.0.2",
-        "actionId": "70d166e3-3cd3-413d-b981-879689203ed1",
-        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "actionId": "0dabaefd-a1de-45df-8ccd-bbd3a01743ea",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
         "parameters": [
           {
-            "key": "echo",
-            "type": "String",
-            "value": "\u0022asdasd\u0022"
+            "key": "delay",
+            "type": "Number",
+            "value": "3000"
           },
           {
             "key": "failOnError",
@@ -39,15 +43,19 @@
         "variables": [],
         "results": [],
         "logs": [],
+        "status": 0,
+        "breakPoint": "None",
         "datastoreReferences": []
       }
     ],
     "variableMappings": [],
     "outputMappings": [],
     "metaData": [],
+    "deleted": false,
     "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
-    "resourceId": "4eb71219-a4ac-45fb-9b98-9dd1dd4796d0",
-    "name": "jhjhhjjhj"
+    "resourceId": "803d8e7e-964f-40b3-b119-74268d03e27c",
+    "name": "delay"
   }
 }

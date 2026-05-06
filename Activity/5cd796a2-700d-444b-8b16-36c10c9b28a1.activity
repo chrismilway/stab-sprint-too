@@ -1,0 +1,240 @@
+{
+  "metadata": {
+    "id": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
+    "platformVersion": "10.0.0",
+    "createdAt": "2025-12-19T10:06:32Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "projectId": "5c494d7e-536b-430a-be45-518afe7c1904",
+    "description": "test",
+    "associatedUserId": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "botIds": [],
+    "version": 1,
+    "actions": [
+      {
+        "name": "Set Variable",
+        "type": "VariableSetV2",
+        "version": "1.1.2",
+        "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+        "actionDefinitionActionId": "32b3480c-118e-42ce-99dd-1c25aa93d742",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022okjlkjkjssss\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022\u00A3\u00A31caf1420-98e1-42ef-9f8c-a9a897e04cde:fddffdfd\u00A3\u00A3\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [
+          {
+            "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+            "actionResult": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740:okjlkjkjssss",
+            "variableName": "okjlkjkjssss",
+            "type": "String"
+          }
+        ],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": [
+          {
+            "datastoreId": "1caf1420-98e1-42ef-9f8c-a9a897e04cde",
+            "variableName": "fddffdfd"
+          }
+        ]
+      },
+      {
+        "name": "Set Variable",
+        "type": "VariableSetV2",
+        "version": "1.1.2",
+        "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+        "actionDefinitionActionId": "32b3480c-118e-42ce-99dd-1c25aa93d742",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "variable",
+            "type": "String",
+            "value": "\u0022okjlkjkjoo\u0022"
+          },
+          {
+            "key": "variableType",
+            "type": "String",
+            "value": "\u0022String\u0022"
+          },
+          {
+            "key": "data",
+            "type": "String",
+            "value": "\u0022\u00A3\u00A396db6418-53bc-4827-8b6d-9cc0a667ba08:qqqqqq\u00A3\u00A3\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          },
+          {
+            "key": "redacted",
+            "type": "Boolean",
+            "value": "false"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [
+          {
+            "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+            "actionResult": "e225cd2e-47e0-46b1-b5e2-82876ae2532c:okjlkjkjoo",
+            "variableName": "okjlkjkjoo",
+            "type": "String"
+          }
+        ],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": [
+          {
+            "datastoreId": "96db6418-53bc-4827-8b6d-9cc0a667ba08",
+            "variableName": "qqqqqq"
+          }
+        ]
+      },
+      {
+        "name": "Debug Value",
+        "type": "Debug",
+        "version": "1.0.2",
+        "actionId": "e8bd83b8-c292-4b9f-aecf-53148d211da0",
+        "actionDefinitionActionId": "fb707467-e3b5-44da-a74f-3b6ca383791c",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "echo",
+            "type": "String",
+            "value": "\u0022Hey Chris, I made a change! xsssss\u0022"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      },
+      {
+        "name": "Delay",
+        "type": "Delay",
+        "version": "1.0.1",
+        "actionId": "89780b72-c57c-4bf1-8589-933a0cedadf2",
+        "actionDefinitionActionId": "4afc0589-d3bf-49d3-80e3-240be2146dcf",
+        "disabled": false,
+        "created": "0001-01-01T00:00:00Z",
+        "updated": "0001-01-01T00:00:00Z",
+        "isDeactivated": false,
+        "parameters": [
+          {
+            "key": "delay",
+            "type": "Number",
+            "value": "2000"
+          },
+          {
+            "key": "failOnError",
+            "type": "Boolean",
+            "value": "true"
+          }
+        ],
+        "actions": [],
+        "context": [],
+        "tables": [],
+        "lists": [],
+        "variableMappings": [],
+        "variables": [],
+        "results": [],
+        "logs": [],
+        "status": 0,
+        "breakPoint": "None",
+        "datastoreReferences": []
+      }
+    ],
+    "variableMappings": [
+      {
+        "actionId": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740",
+        "actionResult": "60081e61-a6fd-4c4a-9ee9-731e0e7f7740:okjlkjkjssss",
+        "variableName": "okjlkjkjssss",
+        "type": "String"
+      },
+      {
+        "actionId": "e225cd2e-47e0-46b1-b5e2-82876ae2532c",
+        "actionResult": "e225cd2e-47e0-46b1-b5e2-82876ae2532c:okjlkjkjoo",
+        "variableName": "okjlkjkjoo",
+        "type": "String"
+      }
+    ],
+    "outputMappings": [],
+    "metaData": [],
+    "deleted": false,
+    "activityServiceType": "Stateless",
+    "migratedToBotUuid": false,
+    "datastoreReferences": [
+      {
+        "datastoreId": "1caf1420-98e1-42ef-9f8c-a9a897e04cde",
+        "variableName": "fddffdfd"
+      },
+      {
+        "datastoreId": "96db6418-53bc-4827-8b6d-9cc0a667ba08",
+        "variableName": "qqqqqq"
+      }
+    ],
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "5cd796a2-700d-444b-8b16-36c10c9b28a1",
+    "name": "test"
+  }
+}

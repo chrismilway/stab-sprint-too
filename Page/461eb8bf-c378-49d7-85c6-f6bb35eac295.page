@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "id": "461eb8bf-c378-49d7-85c6-f6bb35eac295",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-24T14:00:59Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "pageId": "461eb8bf-c378-49d7-85c6-f6bb35eac295",
+    "dashBoardId": "6942b4472a43bd9cf13e8817",
+    "title": "zzzzz",
+    "layout": "{\u0022version\u0022:\u00222\u0022,\u0022rootComponentId\u0022:\u0022b5f98104-e338-44d5-bfd3-52e5a7abb6a8\u0022,\u0022components\u0022:{\u0022b5f98104-e338-44d5-bfd3-52e5a7abb6a8\u0022:{\u0022id\u0022:\u0022b5f98104-e338-44d5-bfd3-52e5a7abb6a8\u0022,\u0022definitionId\u0022:\u0022@tocabot/app/page-root\u0022,\u0022options\u0022:{},\u0022slots\u0022:{\u0022root\u0022:[]},\u0022classes\u0022:{\u0022root\u0022:[]}}},\u0022viewports\u0022:{\u0022414\u0022:[],\u0022768\u0022:[],\u00221280\u0022:[],\u00221440\u0022:[]}}",
+    "parameters": [],
+    "deleted": false,
+    "version": "0.0.0",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "461eb8bf-c378-49d7-85c6-f6bb35eac295",
+    "name": "zzzzz"
+  }
+}

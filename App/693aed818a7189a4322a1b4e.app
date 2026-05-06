@@ -18,6 +18,8 @@
         "pageEntityId": "79307afb-35ff-47bc-9a44-5876301906a8",
         "slug": "",
         "name": "Home",
+        "hidden": false,
+        "restricted": false,
         "parameters": []
       },
       {
@@ -26,6 +28,8 @@
         "pageEntityId": "01cb36c9-cb9d-4894-b1c3-e059098758b5",
         "slug": "dssddssdsd",
         "name": "dssddssdsd",
+        "hidden": false,
+        "restricted": false,
         "parameters": [
           {
             "key": "modalFullHeight",
@@ -54,6 +58,82 @@
             "key": "modalTitle",
             "type": "boolean",
             "value": "true"
+          }
+        ]
+      },
+      {
+        "id": "4f0d92c8-4687-41c2-9258-db98aeb7e33a",
+        "pageId": "69eb7534672aceed90112ce0",
+        "pageEntityId": "e90a0639-d850-4ac0-a9c1-cd9b19cca677",
+        "slug": "sdsddsds",
+        "name": "sdsddsds",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "6909cbba-f799-42f7-9555-26ee43a78205",
+        "pageId": "69eb7747672aceed90112ce4",
+        "pageEntityId": "7e4c442f-2b6a-46de-b5d4-a9beeca6fc5d",
+        "slug": "zzzzz",
+        "name": "zzzzz",
+        "hidden": false,
+        "restricted": false,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
           }
         ]
       }
@@ -115,6 +195,9 @@
         "xl": 2160
       }
     },
+    "enablePWA": false,
+    "deleted": false,
+    "demoable": false,
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "693aed818a7189a4322a1b4e",
     "name": "29981 modal width"

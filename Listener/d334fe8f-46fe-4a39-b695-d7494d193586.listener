@@ -1,0 +1,26 @@
+{
+  "metadata": {
+    "id": "d334fe8f-46fe-4a39-b695-d7494d193586",
+    "platformVersion": "10.0.0",
+    "createdAt": "2026-04-16T13:54:33Z",
+    "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
+    "schemaVersion": "1.0.0"
+  },
+  "content": {
+    "listenerId": "d334fe8f-46fe-4a39-b695-d7494d193586",
+    "version": "",
+    "description": "cxcxcxcx",
+    "apiKeys": [
+      {
+        "name": "toca.app.ed12e2f0-6457-40db-9262-e528b284e0a6",
+        "expirationDate": "2100-01-01T00:00:00Z",
+        "key": "58a52cae-2e89-41f4-a2fc-b79b3d0a5b73"
+      }
+    ],
+    "inputs": [],
+    "workflowId": "f76e8974-abf5-4840-9dc9-668378cb090d",
+    "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
+    "resourceId": "d334fe8f-46fe-4a39-b695-d7494d193586",
+    "name": "cvcxcxcxcx"
+  }
+}

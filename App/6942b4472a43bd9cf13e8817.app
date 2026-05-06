@@ -1,14 +1,10 @@
 {
   "metadata": {
     "id": "6942b4472a43bd9cf13e8817",
-    "contentHash": "GfmqfQhqu1AZzEI8\u002B8W6FfjHPGZShhRmvprt1aRFng0=",
     "platformVersion": "10.0.0",
-    "revisionId": "8358ab78-113a-47f4-b9fa-530ad7288314",
-    "updatedAt": "2026-04-08T09:59:15Z",
-    "updatedBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
     "createdAt": "2025-12-17T13:46:47Z",
     "createdBy": "511f1f79-70c1-42af-a7fb-b34c001c3e30",
-    "branch": "branch-too"
+    "schemaVersion": "1.0.0"
   },
   "content": {
     "appId": "6942b4472a43bd9cf13e8817",
@@ -22,6 +18,7 @@
         "pageEntityId": "6e55f269-8dce-42a4-af30-8ec069b9c975",
         "slug": "",
         "name": "Home",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -60,6 +57,8 @@
         "pageEntityId": "424fc8c5-aec8-4fb6-bc15-54a6e9492211",
         "slug": "login",
         "name": "Login",
+        "hidden": false,
+        "restricted": false,
         "parameters": []
       },
       {
@@ -68,6 +67,7 @@
         "pageEntityId": "760bc321-6740-4d9f-89ef-425bbf0e9493",
         "slug": "ew",
         "name": "ew",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -105,6 +105,7 @@
         "pageEntityId": "27646cff-4188-4afb-85d9-c300a5327e5d",
         "slug": "qwasasas",
         "name": "qwasasas",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -142,6 +143,7 @@
         "pageEntityId": "1b8b4ab1-4361-4707-a2ad-052b33905760",
         "slug": "adsasasasas",
         "name": "adsasasasas",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -179,6 +181,7 @@
         "pageEntityId": "aa386949-d63a-445b-846e-ef6d79c0c595",
         "slug": "zxzxzxzz",
         "name": "zxzxzxzz",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -216,6 +219,7 @@
         "pageEntityId": "d52eddf4-3eef-4373-b39e-ac82022ef089",
         "slug": "asasas",
         "name": "asasas",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -253,6 +257,7 @@
         "pageEntityId": "2fe9bda1-bd8f-40bb-b5e2-7511a62fe7c3",
         "slug": "aa-aaa",
         "name": "aaAaa",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -290,6 +295,7 @@
         "pageEntityId": "d586127c-c582-43a6-8438-93e2d2ef7bc5",
         "slug": "jghghhhhhggh",
         "name": "jghghhhhhggh",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -327,6 +333,7 @@
         "pageEntityId": "fe01c538-cde7-4571-a5f1-95a609d029b0",
         "slug": "essdsdsdsds",
         "name": "essdsdsdsds",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -364,6 +371,7 @@
         "pageEntityId": "77dd3c16-b320-4b36-8ae8-e9dc2cfa4135",
         "slug": "ssssss",
         "name": "ssssss",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -401,6 +409,7 @@
         "pageEntityId": "232ca0f7-66d2-44bf-9a37-715559bbcae5",
         "slug": "cxfnjdfjdfj",
         "name": "cxfnjdfjdfj",
+        "hidden": false,
         "restricted": true,
         "parameters": [
           {
@@ -438,7 +447,46 @@
         "pageEntityId": "1e80d09a-695f-451c-be4c-d428058077f3",
         "slug": "kjdfkjdfjk",
         "name": "kjdfkjdfjk",
+        "hidden": false,
         "restricted": true,
+        "parameters": [
+          {
+            "key": "modalFullHeight",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "modalWidth",
+            "type": "string",
+            "value": "\u0022lg\u0022"
+          },
+          {
+            "key": "dynamic",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "key": "dynamicSource",
+            "type": "parameter"
+          },
+          {
+            "key": "dynamicKey",
+            "type": "string"
+          },
+          {
+            "key": "modalTitle",
+            "type": "boolean"
+          }
+        ]
+      },
+      {
+        "id": "ac783fe8-7616-4036-9bd6-834cc0d45634",
+        "pageId": "69eb779b672aceed90112ce5",
+        "pageEntityId": "461eb8bf-c378-49d7-85c6-f6bb35eac295",
+        "slug": "zzzzz",
+        "name": "zzzzz",
+        "hidden": false,
+        "restricted": false,
         "parameters": [
           {
             "key": "modalFullHeight",
@@ -513,9 +561,14 @@
         "passwordField": "password",
         "loginPageId": "cdce744b-76f6-44f1-b15f-79066556b814",
         "allowRegistration": true,
-        "approvalField": "approved"
+        "requireApproval": false,
+        "approvalField": "approved",
+        "useAccessToken": false,
+        "autoRegister": false
       },
-      "isUserPassProvider": true
+      "isOAuthProvider": false,
+      "isUserPassProvider": true,
+      "isOpenIdProvider": false
     },
     "favicon": "",
     "theme": {
@@ -568,9 +621,13 @@
     },
     "deployTargets": [
       {
+        "useAsDefault": false,
         "slug": "terrific-tomb-8262-1"
       }
     ],
+    "enablePWA": false,
+    "deleted": false,
+    "demoable": false,
     "workspaceId": "08de38c2-1b88-4361-82b5-bdb178084bbe",
     "resourceId": "6942b4472a43bd9cf13e8817",
     "name": "29844-app"
